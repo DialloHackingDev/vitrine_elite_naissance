@@ -29,7 +29,7 @@ function Footer() {
             <FiMail className="h-5 w-5" />
             <span>contact@naissancechain.gn</span>
           </div>
-          <div href="wa" className="inline-flex rounded-full border border-slate-700 bg-slate-900 px-4 py-3 text-sm font-semibold text-white transition hover:border-amber-400 hover:text-amber-300">
+          <div href="https://wa.me/" className="inline-flex rounded-full border border-slate-700 bg-slate-900 px-4 py-3 text-sm font-semibold text-white transition hover:border-amber-400 hover:text-amber-300">
             Chef d'equipe
           </div>
         </div>
