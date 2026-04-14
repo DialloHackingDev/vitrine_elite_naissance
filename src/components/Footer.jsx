@@ -18,10 +18,9 @@ function Footer() {
 
         <div className="grid gap-3 text-sm">
           <span className="mb-3 text-xs uppercase tracking-[0.25em] text-amber-400">Documentation</span>
-          <a href="/whitepaper.pdf" className="transition hover:text-white">Whitepaper v1.0</a>
-          <a href="#solution" className="transition hover:text-white">Protocol Specs</a>
-          <a href="#impact" className="transition hover:text-white">Audit Reports</a>
-          <a href="#problem" className="transition hover:text-white">Security Model</a>
+          <a href="#solution" className="transition hover:text-white">Solution</a>
+          <a href="#impact" className="transition hover:text-white">Impact</a>
+          <a href="#problem" className="transition hover:text-white">Problem</a>
         </div>
 
         <div className="grid gap-3 text-sm">
@@ -30,8 +29,8 @@ function Footer() {
             <FiMail className="h-5 w-5" />
             <span>contact@naissancechain.gn</span>
           </div>
-          <div className="inline-flex rounded-full border border-slate-700 bg-slate-900 px-4 py-3 text-sm font-semibold text-white transition hover:border-amber-400 hover:text-amber-300">
-            Contact Secretariat
+          <div href="wa" className="inline-flex rounded-full border border-slate-700 bg-slate-900 px-4 py-3 text-sm font-semibold text-white transition hover:border-amber-400 hover:text-amber-300">
+            Chef d'equipe
           </div>
         </div>
       </div>
