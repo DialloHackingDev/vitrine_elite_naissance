@@ -30,7 +30,7 @@ function Footer() {
             <span>contact@naissancechain.gn</span>
           </div>
           <div href="https://wa.me/625704164" className="inline-flex rounded-full border border-slate-700 bg-slate-900 px-4 py-3 text-sm font-semibold text-white transition hover:border-amber-400 hover:text-amber-300">
-            Chef d'equipe
+            Contacter
           </div>
         </div>
       </div>
