@@ -7,7 +7,7 @@ function Impact() {
     { value: "95%", label: "Taux d’enregistrement cible", icon: FiTrendingUp },
     { value: "0s", label: "Délai de vérification", icon: FiClock },
     { value: "100%", label: "Inclusion scolaire", icon: FiUsers },
-    { value: "Civic", label: "Identity sovereignty", icon: FiShield },
+    { value: "Civique", label: "Souveraineté de l’identité", icon: FiShield },
   ];
 
   return (
