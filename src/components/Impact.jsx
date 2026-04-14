@@ -22,7 +22,7 @@ function Impact() {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <p className="text-sm uppercase tracking-[0.4em] text-amber-400">Un Impact Mesurable pour la Nation</p>
-            <h2 className="mt-4 text-4xl font-bold tracking-tight text-white">Notre déploiement vise à transformer radicalement le paysage administratif guinéen d’ici 2026.</h2>
+            <h2 className="mt-4 text-4xl font-bold tracking-tight text-white">Notre déploiement vise à transformer radicalement le paysage administratif guinéen d’ici 2027.</h2>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
               Une infrastructure de confiance conçue pour apporter de la transparence,
               accélérer l’accès aux services et garantir l’identification de chaque citoyen.
